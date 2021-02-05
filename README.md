@@ -1,6 +1,6 @@
 # pets_app
 
-宠物APP
+Flutter app 模版
 
 ## Getting Started
 
